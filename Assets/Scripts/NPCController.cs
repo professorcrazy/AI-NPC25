@@ -40,6 +40,6 @@ public class NPCController : MonoBehaviour
             }
         }
 
-        //add vision
+        
     }
 }
